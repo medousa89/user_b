@@ -35,15 +35,13 @@ jobs:
       - name: Run script
         run: |
           sh test.sh
-          rm -fr iptv.*
-          rm -fr iptv.*.*
+          rm -rf iptv.*
           ls
         
       - name: commit 
         run: |
           git config --local user.name ${{ github.actor }}
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-          git rm iptv.*
           git add *.*
           git commit -m "new data from job ${{ github.run_number }}"
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
@@ -56,6 +54,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: "./userbouquet.greekstreamtv.tv"
+          asset_name: "userbouquet.greekstreamtv.tv"
           title: "Release: $tag"
           tag: 'tv'
           required: true
