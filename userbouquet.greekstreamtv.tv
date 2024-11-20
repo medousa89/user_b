@@ -1,0 +1,514 @@
+Channel name:
+################################################>>>>>>>>>>ΠΙΟ ΣΥΧΝΑ<<<<<<<<<<##########################################################################################################################
+Channel name:ERT1 HD
+http://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
+Channel name:ERT2 HD
+http://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+Channel name:ERT3 HD
+http://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
+Channel name:ERT NEWS HD
+http://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
+Channel name:ERT WORLD
+http://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
+Channel name:OMEGA
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+Channel name:STAR HD
+http://livestar.siliconweb.com/media/star4/star4.m3u8
+Channel name:STAR INTERNATIONAL HD
+http://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+Channel name:ANT1 HD
+http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+Channel name:ANT1 ΚΥΠΡΟΥ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+Channel name:ALPHA HD
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+Channel name:ALPHA ΚΥΠΡΟΥ
+http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
+Channel name:SKAI HD
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+Channel name:OPEN BEYONT HD
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+Channel name:ONE CHANNEL HD
+http://onechannel.siliconweb.com/one/stream/chunks.m3u8 
+Channel name:ACTION 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+Channel name:ATTICA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+Channel name:TV 100 SKG
+http://live.fm100.gr/hls/tv100/index.m3u8
+Channel name:STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
+http://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
+Channel name:IONIAN CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+Channel name:KRHTH TV
+http://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+Channel name:KONTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+Channel name:BLUE SKY
+http://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+Channel name:MAKEDONIA TV HD
+http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+Channel name:BEST TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+Channel name:LEPANTO HD
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/LePanto_TV.m3u8
+Channel name:NAFTEMPORIKH HD
+http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+Channel name:EURONEWS ΕΛΛΗΝΙΚΑ
+http://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
+Channel name:PRO NEWS HD
+http://pro.free.hr:3887/live/pronewslive.m3u8
+Channel name:GROOVY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+Channel name:CINEMA TIME
+http://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
+Channel name:CINEMA TIME 2
+http://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
+Channel name:NETMAX TV
+http://live.netmaxtv.com:1936/live/live/playlist.m3u8
+Channel name:EXTACY TV
+http://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+Channel name:EXTACY TV CYPRUS
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Extacy_TV_Cyprus.m3u8
+Channel name:CINEMA CLASSICS
+http://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+Channel name:GALAXY
+http://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
+Channel name:LAMSI TV
+http://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
+Channel name:DIABATA TV
+http://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+Channel name:DELTA TV SKG
+http://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
+Channel name:IONIA TV
+http://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
+Channel name:GREEK TV LONDON CINEMA
+http://vdo3.alphaserver.gr:3466/stream/play.m3u8
+Channel name:MONTAZ TV
+http://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
+Channel name:DIPOLO TV
+http://channel.streams.ovh:8081/dipolotv/playlist.m3u8
+Channel name:VILLAGE WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ellastv.gotdns.com:88/freetv/village-world/index.m3u8
+Channel name:ELLAS WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ellastv.gotdns.com:88/freetv/promo/index.m3u8
+Channel name:NETV EUROPE HD
+http://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
+Channel name:NETV TORONTO HD
+http://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+Channel name:KRHTH 1
+http://livetv.streams.ovh:8081/kriti/index.m3u8
+Channel name:Tele KRHTH
+http://neon.streams.gr:8081/telekriti/index.m3u8
+Channel name:CRETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+Channel name:NEA TV
+http://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+Channel name:
+####################################################>>>>>>>>>>ΑΛΦΑΒΗΤΙΚΑ<<<<<<<<<<######################################################################################################################
+Channel name:ACHELWOS TV
+http://acheloostv.streamings.gr/live/stream/index.m3u8
+Channel name:AEOLOS TV HD
+http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+Channel name:AIGAIO TV
+http://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
+Channel name:ALERT
+http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+Channel name:ALFA
+http://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+Channel name:ALITHIA TV (μετά τίς 17:00 )
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Alithia_TV.m3u8
+Channel name:APT TV
+http://1a-1791.com/live/41ac4fe/slot-1/uohl-6ir1/chunklist.m3u8
+Channel name:ART TV
+http://til.pp.ua:3711/live/arttvgr70live.m3u8
+Channel name:ASTRA TV
+http://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
+Channel name:CENTER TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Center_TV.m3u8
+Channel name:CITY CHANNEL HD
+http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:CORFU CHANNEL
+http://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+Channel name:CYPRUS LIVE
+http://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
+Channel name:DELTA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
+Channel name:DESTINATION TV
+http://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
+Channel name:DIKTYO TV
+http://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+Channel name:DION TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Dion_TV.m3u8
+Channel name:DTP
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/DTP.m3u8
+Channel name:E TV
+http://neon.streams.gr:8081/epsilontv/index.m3u8
+Channel name:ED TV
+http://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
+Channel name:EGNATIA TV
+http://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+Channel name:ELLADA  TV
+http://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+Channel name:ENA CHANNEL HD
+http://til.pp.ua:3365/live/enachannellive.m3u8
+Channel name:EPILOGES TV
+http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+Channel name:EPIRUS TV1 HD
+http://til.pp.ua:3928/live/epiruslive.m3u8
+Channel name:EURO TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euro_TV.m3u8
+Channel name:EUROPE 1
+http://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
+Channel name:EVRIPOS TV
+http://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
+Channel name:EXPLORING GREECE
+http://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
+Channel name:FAROS LIVE
+http://s1.cystream.net/live/faros2/playlist.m3u8
+Channel name:FAROS WEB TV
+http://s1.cystream.net/live/faros1/playlist.m3u8
+Channel name:FILOPOLI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+Channel name:FLASH TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Flash_TV.m3u8
+Channel name:GNOMI TV
+http://live.streams.ovh:8081/gnomitv/index.m3u8
+Channel name:GRD CHANNEL
+http://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
+Channel name:GRECA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+Channel name:GRECA TV  2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alex9954094.ddns.net:2052/test/test/93
+Channel name:GRECA TV  3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alex9954094.ddns.net:2052/test/test/5
+Channel name:GREEK USA TV
+http://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
+Channel name:GREEK VOICE
+http://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
+Channel name:HELLENIC TV
+http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+Channel name:HIGH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+Channel name:ILEKTRA TV
+http://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
+Channel name:IME TV
+http://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
+Channel name:IRIDA TV
+http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
+Channel name:IVIEW TV
+http://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
+Channel name:KONITSA TV
+http://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
+Channel name:KOS TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kos_TV.m3u8
+Channel name:KOSMOS TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kosmos_TV.m3u8
+Channel name:MESOGEIOS TV
+http://til.pp.ua:3872/live/mesogeiostvlive.m3u8
+Channel name:MONTREAL GREEK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.greektv.ca/hls1/greektv.m3u8
+Channel name:NOTIOI TV
+http://srv.streamserver.gr:3451/stream/play.m3u8
+Channel name:NS TV
+http://til.pp.ua:3262/live/nstv7live.m3u8
+Channel name:OPT
+http://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
+Channel name:PA.K.O.E
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pakoestream_TV.m3u8
+Channel name:PELLA TV
+http://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+Channel name:PLP
+http://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
+Channel name:PLUTON TV HD
+http://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+Channel name:RIK SAT CYPRUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+Channel name:RISE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+Channel name:RODOPI TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Rodopi_TV.m3u8
+Channel name:RTP KENTRO
+http://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
+Channel name:SAMIAKI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+Channel name:SIGMA ΚΥΠΡΟΥ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l10.cloudskep.com/sigmatv/stv/playlist.m3u8
+Channel name:STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Star_Boreiou_Elladas.m3u8
+Channel name:START TV
+http://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+Channel name:STENT TV
+http://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
+Channel name:SYROS TV1
+http://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+Channel name:THESSALIA TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Thessalia_TV.m3u8
+Channel name:THRAKI NET HD
+http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+Channel name:TOP CHANNEL HD
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Top_Channel.m3u8
+Channel name:TRT TV
+http://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+Channel name:VERGINA TV
+http://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
+Channel name:VERGINA TV ΚΥΠΡΟΥ
+http://fl1002.bozztv.com/ssh101/vecy32423jk/tracks-v1a1/playlist.m3u8
+Channel name:VOULI
+http://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
+Channel name:VOULI 2
+http://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
+Channel name:VOULI 3
+http://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+Channel name:VOULI CYPRUS
+http://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:XPLORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+Channel name:XYLAGANI TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Xylagany.m3u8
+Channel name:ZOUGLA TV
+http://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+Channel name:
+##################################################>>>>>>>>>>ΕΚΚΛΗΣΙΑΣΤΙΚΑ<<<<<<<<<<#############################################################################################################################
+Channel name:4E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
+Channel name:DIPSO TV
+http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+Channel name:ECCLESIA TV
+http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+Channel name:FAROS ΕΚΚΛΗΣΙΑ
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Faros_TV_Ekklisia.m3u8
+Channel name:LYCHNOS HD
+http://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
+Channel name:ORTHODOXI TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Orthodoxia_TV.m3u8
+Channel name:PEMPTOUSIA TV
+http://new.cache-stream.workers.dev/stream/UCYjyS5OIpeVoOoXRxpzaKDg/live.m3u8
+Channel name:VOICE OF GOD TV
+http://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
+Channel name:WORD OF GOD TV
+http://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
+Channel name:PISTI TV
+http://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:
+#################################################>>>>>>>>>>ΜΟΥΣΙΚΑ<<<<<<<<<<#####################################################################################################################################
+Channel name:24 SERVER
+http://nasos.24hosting.gr:3580/stream/play.m3u8
+Channel name:BARAZA 80s 90s
+http://media2.streambrothers.com:19360/8106/8106.m3u8
+Channel name:BARAZA DJ MUSIC
+http://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
+Channel name:BARAZA GOLD HITS
+http://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+Channel name:BARAZA GREEK HITS
+http://eco.streams.ovh:8081/barazatv/playlist.m3u8
+Channel name:BARAZA GREEK SUMMER
+http://glb.bozztv.com/glb/ssh101/music/index.m3u8
+Channel name:BARAZA RELAXING
+http://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+Channel name:BLACKMAN RADIO
+http://til.pp.ua:3653/live/blackmanlive.m3u8
+Channel name:CLASSIC ARTS SHOWCASE
+http://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+Channel name:CLUBBING TV
+http://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
+Channel name:DANCE TV
+http://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+Channel name:DEEJAY TV
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+Channel name:DELUXE MUSIC
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+Channel name:ELLINIKOS FM
+http://til.pp.ua:3093/live/ellinikosfmlive.m3u8
+Channel name:ERT MUSIC TV
+http://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
+Channel name:FOX RADIO GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+Channel name:GOHTEIA RADIO
+http://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
+Channel name:GREEK TV LONDON RADIO
+http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+Channel name:HOTBEATS TV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Hotbeats_TV.m3u8
+Channel name:KISS TV
+http://livestream.siliconweb.com/live/kissfm/index.m3u8
+Channel name:KLIK TV
+http://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
+Channel name:MAD WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
+Channel name:MAGIC TV
+http://itv.streams.ovh/magictv/magictv/playlist.m3u8
+Channel name:MESSINIA WEB TV
+http://til.pp.ua:3303/live/messiniatvlive.m3u8
+Channel name:MUSIC WEB TV
+http://vodlive.streams.ovh:3165/stream/play.m3u8
+Channel name:NASOS TV RADIO
+http://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
+Channel name:NRG91
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr:1935/onweb/live/master.m3u8
+Channel name:PANIK TV
+http://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+Channel name:PLAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+Channel name:REAL MUSIC TV
+http://webtv.topwebhost.gr:3302/stream/play.m3u8
+Channel name:RED MUSIC
+http://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+Channel name:RELOAD PLAY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu:1935/video/video/playlist.m3u8
+Channel name:RYTHMOS TV
+http://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
+Channel name:TELEMOUSIKI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.108.62.57:8080/live2/greekmusic.m3u8
+Channel name:TOP WEB HOST TV
+http://webtv.topwebhost.gr:3565/stream/play.m3u8
+Channel name:V2BEAT LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8
+Channel name:XALASTRA TV
+http://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
+Channel name:XTV
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/XTV.m3u8
+Channel name:
+######################################################>>>>>>>>>>ΑΘΛΗΤΙΚΑ<<<<<<<<<<####################################################################################################################################
+Channel name:ALFA SPORTS CYPRUS
+http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:ARGOLIDA SPORT
+http://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
+Channel name:BOXING TV
+http://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/feff81c1-5835-4d5d-be0d-92a5cac4775a/3.m3u8
+Channel name:ERT SPORTS 1
+http://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
+Channel name:ERT SPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+Channel name:EXTREME SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge02.odtv.az/o4/extremesport/playlist.m3u8
+Channel name:FIGHT NETWORK
+http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+Channel name:HORSE RACES
+http://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+Channel name:MOTOR RACING
+http://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/0742fa36-d224-4fe3-85f8-da4522a2054a/2.m3u8
+Channel name:MOTORBIKES & ENGINES
+http://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
+Channel name:MOTORVISION TV
+http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+Channel name:NETO SPORTS
+http://netohls.wns.live/hls/stream.m3u8
+Channel name:OPAP TV
+http://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+Channel name:RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Channel name:TENNIS CHANNEL
+http://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+Channel name:TENNIS CHANNEL 2
+http://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+Channel name:WWE TV
+http://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
+Channel name:
+######################################################>>>>>>>>>>ΠΑΙΔΙΚΑ<<<<<<<<<<############################################################################################################################
+Channel name:BABY SHARK TV
+http://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+Channel name:BARBIE
+http://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
+Channel name:BIG CHANNEL
+http://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
+Channel name:BOOBA TV
+http://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
+Channel name:CARTOON NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+Channel name:CARTOON TV
+http://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
+Channel name:DISNEY CHANNEL
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+Channel name:DUCK TV
+http://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
+Channel name:ERT KIDS
+http://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+Channel name:GOGO PLAY TV
+http://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
+Channel name:KIDS TV
+http://pocketwatch-redbox.amagi.tv/playlist.m3u8
+Channel name:MR BEAN ANIMATED
+http://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+Channel name:MONDO TV KIDS
+http://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+Channel name:MOONBUG KIDS TV
+http://moonbug-rokuus.amagi.tv/playlist.m3u8
+Channel name:ODDBODS
+http://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
+Channel name:PBS KIDS
+http://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
+Channel name:PINKFONG
+http://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+Channel name:RETRO CARTOON
+http://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+Channel name:RETRO CRUSH
+http://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
+Channel name:SMILE TV
+http://s1.cystream.net/live/smile/playlist.m3u8
+Channel name:TALKING TOM
+http://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
+Channel name:TOONS TV
+http://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
+Channel name:ZOO MOO KIDS
+http://zoomoo-samsungau.amagi.tv/playlist.m3u8
+Channel name:ZOUZOUNIA
+http://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
+Channel name:
+#################################################>>>>>>>>>>ΔΙΕΘΝΗ<<<<<<<<<<#####################################################################################################################################
+Channel name:1+1
+http://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+Channel name:AL JAZEERA ENGLISH
+http://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+Channel name:ARIRANG
+http://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+Channel name:BBC WORLD
+http://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+Channel name:BLOOMBERG
+http://bloomberg.com/media-manifest/streams/eu.m3u8
+Channel name:CNN
+http://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+Channel name:CGTN ENGLISH
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+Channel name:DW ENGLISH
+http://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
+Channel name:FRANCE 24 ENGLISH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+Channel name:NBC NOW
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+Channel name:RUSSIA TODAY NEWS
+http://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+Channel name:TV5 MONDE EUROPE
+http://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
+Channel name:
+######################################################>>>>>>>>>>LIFESTYLE<<<<<<<<<<##########################################################################################################################
+Channel name:ANIMALS NATURE
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Animals_Nature.m3u8
+Channel name:4K TRAVEL TV
+http://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+Channel name:BOAT SHOW
+http://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/ee563918-5f12-4456-9969-0e185d2aa3c0/2.m3u8
+Channel name:FASHION TV 1
+http://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+Channel name:FASHION TV 2
+http://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+Channel name:FASHION TV 3
+http://fash1043.cloudycdn.services/slive/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
+Channel name:FASHION TV 4
+http://cdn.wfc.tv/cdn/stream-rus.m3u8
+Channel name:FASHION TV UHD
+http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Channel name:
+################################################>>>>>>>>>>COMENTY<<<<<<<<<<######################################################################################################################################
+Channel name:5 Minute Crafts
+http://rakutenaa-soul-5mincraftenglish-rakuten-du9p7.amagi.tv/playlist/rakutenAA-soul-5mincraftenglish-rakuten/playlist.m3u8
+Channel name:AFV Family
+http://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+Channel name:FailArmy
+http://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Failarmy.m3u8
+Channel name:JAST FOR KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+Channel name:JAST FOR RIRE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
+Channel name:Takeshi's Castle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213441-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=621a6d64-aa90-4bb5-9cb4-9d6dd56346f0
